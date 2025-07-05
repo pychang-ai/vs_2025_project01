@@ -17,3 +17,5 @@ git remote add origin https://github.com/pychang-ai/vs_2025_project01.git
 git remote add origin https://github.com/pychang-ai/vs_2025_proj01.git
 git push --set-upstream origin main
 git remote remove origin
+
+test
